@@ -1,2 +1,4 @@
-# Stock-Management-System
-This project is using for controller Stock like a small stock.
+Student
+=======
+
+A Symfony project created on November 28, 2017, 12:14 pm.
